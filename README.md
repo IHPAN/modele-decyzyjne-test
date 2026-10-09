@@ -9,3 +9,6 @@ Wyniki testu dla 3 modeli decyzyjnych:
 **BASAL-1.5-4.5b**: zgodność z oceną człowieka: 197/250 (**78.8%**)
 **JEV**: zgodność z oceną człowieka: 244/250 (**97.6%**)
 
+Dane i testy przygotowane w ramach projektu „Geografia kulturowo-intelektualna dawnych ziem polskich pod zaborami 1865–1918 – cyfrowe vademecum” prowadzonego w Instytucie Historii Polskiej Akademii Nauk. 
+
+Licencja: Apache-2.0
