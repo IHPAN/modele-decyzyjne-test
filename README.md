@@ -7,7 +7,9 @@ Wyniki testu (2026-10-09) dla 3 modeli decyzyjnych:
 
 **TEV1:4b**: zgodność z oceną człowieka: 223/250 (**89.2%**)
 
-**BASAL-1.5-4.5b**: zgodność z oceną człowieka: 197/250 (**78.8%**)
+**BASAL-1.5-4.5b** (GGUF q8): zgodność z oceną człowieka: 197/250 (**78.8%**)
+
+**BASAL-2.0-4.5b** (GGUF q8): zgodność z oceną człowieka: 200/250 (**80.0%**)
 
 **JEV**: zgodność z oceną człowieka: 244/250 (**97.6%**)
 
